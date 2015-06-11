@@ -1,1 +1,5 @@
 _DS_Store
+Makefile
+*.o
+moc_*
+ui_*
