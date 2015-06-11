@@ -6,7 +6,7 @@
 
 #include <QString>
 #include "midifeedback.h"
-
+#include <signal.h>
 
 bool done;
 static void finish( int /*ignore*/ ){ done = true; }

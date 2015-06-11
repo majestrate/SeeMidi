@@ -43,9 +43,12 @@
 #ifndef RTMIDI_H
 #define RTMIDI_H
 
+/*
+don't need this
 //added 5/8/15
 #define __MACOSX_CORE__
 //end addition
+*/
 
 #define RTMIDI_VERSION "2.1.0"
 
